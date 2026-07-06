@@ -14,6 +14,7 @@ Projeto de Data Lakehouse que implementa uma arquitetura Medallion (Bronze/Silve
 - Afonso Martim Carvalho Leite [@afonsooleite](https://github.com/afonsooleite)
 - Pedro Manuel Mendes Neves [@pedro2516](https://github.com/pedro2516)
 - Filipa Mendes de Castro Pinto [@filipamcp](https://github.com/filipamcp)
+- Rodrigo Santiago Faria Fonseca Abreu [@Rabreu01](https://github.com/Rabreu01)
 - Maria Vitória Veloso Costa Coutinho Alves
 
 ## Arquitetura
